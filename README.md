@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning Express.js, Typescript and MongoDB<br>💬 Ask me about React.js, Express.js
+🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning Express.js, Typescript and SQL<br>💬 Ask me about React.js, Express.js
 
 
 ## 🌐 Socials:
