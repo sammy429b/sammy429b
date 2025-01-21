@@ -1,7 +1,7 @@
 # 💫 About Me:  
 🔭 **Currently Working On:** MERN Stack and Next.js projects  
 💬 **Ask Me About:** JavaScript, C language, React.js, Express.js, and Data Structures & Algorithms (DSA)  
-🌱 **Currently Learning:** Core Computer Science subjects:  
+🌱 **Currently Learning Core Computer Science subjects:**  
   1. Algorithms and Data Structures  
   2. Operating Systems
 
