@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:  
 🔭 **Currently Working On:** MERN Stack and Next.js projects  
 💬 **Ask Me About:** JavaScript, C language, React.js, Express.js, and Data Structures & Algorithms (DSA)  
