@@ -3,7 +3,7 @@
 💬 **Ask Me About:** JavaScript, C language, C++, React.js, Express.js, and Data Structures & Algorithms (DSA)  
 🌱 **Currently Learning :**  
   1. Data Structures & Algorithms
-  2. ArcGIS Maps SDK & GIS
+  2. ArcGIS Maps SDK JS & Geographic information system (GIS)
 
 
 
